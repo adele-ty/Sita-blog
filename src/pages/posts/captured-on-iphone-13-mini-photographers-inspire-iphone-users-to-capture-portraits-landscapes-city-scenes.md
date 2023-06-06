@@ -5,8 +5,8 @@ pubDate: 2023-06-05
 description: "用 iPhone 13 mini 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光"
 author: "Sita Tan"
 cover:
-  url: "https://storage.googleapis.com/landtop_prod/contentimage/509/image/a2f21dd83840f597c06c804091cab2fa.png"
-  square: "https://storage.googleapis.com/landtop_prod/contentimage/509/image/a2f21dd83840f597c06c804091cab2fa.png"
+  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/0a1925491652ff5b397bc1c01edf3892b10f2ac9/public/Shanghai/a2f21dd83840f597c06c804091cab2fa.png"
+  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/0a1925491652ff5b397bc1c01edf3892b10f2ac9/public/Shanghai/a2f21dd83840f597c06c804091cab2fa.png"
   alt: "cover"
 tags: ["Apple", "iPhone 13 mini", "摄影"]
 theme: "light"
