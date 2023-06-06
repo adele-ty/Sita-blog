@@ -5,8 +5,8 @@ pubDate: 2022-06-13
 description: "烟雨入江南，山水如墨染"
 author: "Sita Tan"
 cover:
-  url: "https://github.com/adele-ty/Sita-blog/blob/main/public/Shanghai/IMG_1120(20230605-175340).JPG?raw=true"
-  square: "https://github.com/adele-ty/Sita-blog/blob/main/public/Shanghai/IMG_1120(20230605-175340).JPG?raw=true"
+  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/1ef05f9fb00e0011326af945c1619f32a59edcfb/public/Suzhou/IMG_1124(20230606-102144).JPG"
+  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/1ef05f9fb00e0011326af945c1619f32a59edcfb/public/Suzhou/IMG_1124(20230606-102144).JPG"
   alt: "cover"
 tags: ["旅行", "苏州", "园林"]
 theme: "light"
