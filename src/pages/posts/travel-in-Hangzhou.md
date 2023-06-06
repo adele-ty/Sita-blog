@@ -5,8 +5,8 @@ pubDate: 2022-04-01
 description: "毕竟西湖六月中，风光不与四时同"
 author: "Sita Tan"
 cover:
-  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/fc2df13567a5bbe766ebdf2f2b813f24ba4e8efd/public/Nanjing/IMG_1132(20230606-141814).JPG"
-  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/fc2df13567a5bbe766ebdf2f2b813f24ba4e8efd/public/Nanjing/IMG_1132(20230606-141814).JPG"
+  url: "https://github.com/adele-ty/Sita-blog/blob/1f9a18bc47d02f9b31565f3a881485aa95714ea1/public/Hangzhou/IMG_1155.JPG?raw=true"
+  square: "https://github.com/adele-ty/Sita-blog/blob/1f9a18bc47d02f9b31565f3a881485aa95714ea1/public/Hangzhou/IMG_1155.JPG?raw=true"
   alt: "cover"
 tags: ["旅行", "杭州"]
 theme: "light"
