@@ -5,8 +5,8 @@ pubDate: 2023-01-01
 description: "江横渡阔烟波晚，潮过金陵落叶秋"
 author: "Sita Tan"
 cover:
-  url: "https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-hero_big.jpg.large_2x.jpg"
-  square: "https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-hero_big.jpg.large_2x.jpg"
+  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/fc2df13567a5bbe766ebdf2f2b813f24ba4e8efd/public/Nanjing/IMG_1132(20230606-141814).JPG"
+  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/fc2df13567a5bbe766ebdf2f2b813f24ba4e8efd/public/Nanjing/IMG_1132(20230606-141814).JPG"
   alt: "cover"
 tags: ["旅行", "南京", "古都"]
 theme: "light"
