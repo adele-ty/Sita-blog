@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/MarkdownPost.astro"
-title: "一座充满古典美的城市：苏州 "
+title: "苏州"
 pubDate: 2022-06-13
 description: "烟雨入江南，山水如墨染"
 author: "Sita Tan"
