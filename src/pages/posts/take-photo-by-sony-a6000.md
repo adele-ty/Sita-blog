@@ -45,20 +45,20 @@ sony a6000 缺乏稳定性，机身并不具有光学防抖功能，此外，无
 
 接下来，展示一些使用这款相机搭配不同镜头拍摄出来的照片
 
-![shot on Sigma 30mm F1.4](/public/Sony-a6000/sony-a6000-review-artmuseum-1536x864.jpg)
+![shot on Sigma 30mm F1.4](https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6000/sony-a6000-review-artmuseum-1536x864.jpg?raw=true)
 
 <figure class="image image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on image-small column">
-  <img class="component-content image-sharesheet column-item" src="/public/Sony-a6000/sony-a6000-review-autumn-1-1024x1536.jpg" />
-  <img class="component-content image-sharesheet column-item" src="/public/Sony-a6000/sony-a6000-review-autumn-2-1024x1536.jpg" />
+  <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6000/sony-a6000-review-autumn-1-1024x1536.jpg?raw=true" />
+  <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6000/sony-a6000-review-autumn-2-1024x1536.jpg?raw=true" />
   <div class="image-description image-caption">shot on Sony 16-50mm 套装镜头</div>
 </figure>
 
-![shot on Sigma 30mm F1.4|inline](/public/Sony-a6000/sony-a6000-review-sample-15.webp)
+![shot on Sigma 30mm F1.4|inline](https://raw.githubusercontent.com/adele-ty/Sita-blog/main/public/Sony-a6000/sony-a6000-review-sample-15.webp)
 
-![shot on Neewer 35mm F1.7|inline](/public/Sony-a6000/sony-a6000-review-sample-20.webp)
+![shot on Neewer 35mm F1.7|inline](https://raw.githubusercontent.com/adele-ty/Sita-blog/main/public/Sony-a6000/sony-a6000-review-sample-20.webp)
 
-![shot on Sigma 30mm F1.4|inline](/public/Sony-a6000/sony-a6000-review-sample-22.webp)
+![shot on Sigma 30mm F1.4|inline](https://raw.githubusercontent.com/adele-ty/Sita-blog/main/public/Sony-a6000/sony-a6000-review-sample-22.webp)
 
-![shot on Sigma 30mm F1.4|inline](/public/Sony-a6000/sony-a6000-review-sample-23.webp)
+![shot on Sigma 30mm F1.4|inline](https://raw.githubusercontent.com/adele-ty/Sita-blog/main/public/Sony-a6000/sony-a6000-review-sample-23.webp)
 
-![黄石国家公园东入口外的麋鹿谷照片](/public/Sony-a6000/sony-a6000-review-sample-26.webp)
+![黄石国家公园东入口外的麋鹿谷照片](https://raw.githubusercontent.com/adele-ty/Sita-blog/main/public/Sony-a6000/sony-a6000-review-sample-26.webp)
