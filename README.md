@@ -1,48 +1,48 @@
+## Astro Air Blog 是什么？
 
-[中文版本说明](./README_CN.md)
+它是基于 Astro 2.0 开发的一个博客模板，你可以直接使用它来搭建你的博客。没有使用任何 CSS 框架以及 React 等前端框架，而是使用了 Astro 自带的组件库，这样可以让你的博客加载速度更快，同时也可以让你的博客更加轻量。
 
-## 👏🏻 Introduction
+## 教程
 
-This is a minimalist, beautiful, responsive blogging program written in Astro.
+[https://yufengbiji.com/posts/astro-air-blog-guide](https://yufengbiji.com/posts/astro-air-blog-guide)
 
-## Preview
+## 预览
 
-[https://yufengbiji.com](https://yufengbiji.com)  
+[https://sita-blog.vercel.app](https://sita-blog.vercel.app)
 
-[https://astro.yufengbiji.com](https://astro.yufengbiji.com)
-
-### Home
+### 主页
 
 ![首页](./public/preview/preview_index.png)
 
-### Dark mode
+### 文章黑暗模式
 
 ![文章黑暗模式](./public/preview/preview_dark.png?)
 
-### Normal article
+### 普通文章
 
 ![普通文章模式](./public/preview/preview_light.png)
 
-### Syntax highlighting
+### 语法高亮
 
 ![Syntax](./public/preview/preview_syntaxHighlighting.png)
 
-### Three display model of images
+### 四种图片显示模式
 
 ![](./public/preview/preview_different_mode.png)
 
-The three display modes of images are: `wide`, `big`, `inline`.
-When you edit your markdown file, you can add `wide` or `big` or `inline` to the image alt, like this:
+有三种图片显示模式: wide, big, inline，small. 当你编写 mark 文件的时候可以指定 wide 或 big 或 inline 到你的图片 alt 属性中, 比如这样:
 
 ```markdown
 ![alt content|wide](a.png)
 ```
 
-<strong>The Separator is `|`, and the default mode is `big`.</strong>
+<strong>分割符号是`|`,默认的模式为 `big`.</strong>
 
-## 🚀 Project Structure
+另外图片支持双列布局，使用双列布局最好和 small 一起使用，具体如何使用可以查看博客中的具体案例
 
-In this Astro project, you'll see the following folders and files:
+## 🚀 项目结构
+
+在这个项目中，你可以看到如下结构
 
 ```
 |-- README.md
@@ -53,11 +53,11 @@ In this Astro project, you'll see the following folders and files:
 |   `-- static
 |-- src
 |   |-- components
-|   |   |-- BaseHead.astro // common <head> tags
-|   |   |-- Footer.astro
-|   |   |-- Header.astro
-|   |   `-- Navigation.astro
-|   |-- consts.js
+|   |   |-- BaseHead.astro // 公共头部 head 标签
+|   |   |-- Footer.astro  // 底部
+|   |   |-- Header.astro // 头部
+|   |   `-- Navigation.astro // 导航
+|   |-- consts.js // 常量,包括网站的名称，地址等。
 |   |-- env.d.ts
 |   |-- layouts
 |   |   |-- BaseLayout.astro
@@ -68,35 +68,29 @@ In this Astro project, you'll see the following folders and files:
 |   |   |-- about.astro
 |   |   |-- archive.astro
 |   |   |-- index.astro
-|   |   |-- posts 
-|   |   |   |-- some markdown post.md // markdown post 
+|   |   |-- posts
+|   |   |   |-- some markdown post.md  // 这里写文章
 |   |   |-- rss.xml.js // RSS feed
 |   |   `-- tags
-|   |       `-- [tag].astro // dynamic route of all posts with a given tag
+|   |       `-- [tag].astro // 标签页
 |   |-- styles
-|   |   `-- global.css // global styles
+|   |   `-- global.css // 全局样式
 |   `-- utils.js
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## 🧞 使用方法
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+在项目根目录下执行这些命令:
 
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                | Action                                           |
+| 命令                   | 动作                                             |
 | :--------------------- | :----------------------------------------------- |
-| `npm install`          | Installs dependencies                            |
-| `npm run dev`          | Starts local dev server at `localhost:3000`      |
-| `npm run build`        | Build your production site to `./dist/`          |
-| `npm run preview`      | Preview your build locally, before deploying     |
+| `npm install`          | 安装依赖                                         |
+| `npm run dev`          | 本地预览 `localhost:3000`                        |
+| `npm run build`        | 编译生成静态网站，结果在 `./dist/`               |
+| `npm run preview`      | 在发布之前，可以本地预览                         |
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## 👀 想了解更多？
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+正在撰写相关文章。
