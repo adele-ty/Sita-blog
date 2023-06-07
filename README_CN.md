@@ -28,11 +28,11 @@
 
 ![Syntax](./public/preview/preview_syntaxHighlighting.png)
 
-### 三种图片显示模式
+### 四种图片显示模式
 
 ![](./public/preview/preview_different_mode.png)
 
-有三种图片显示模式: wide, big, inline. 当你编写 mark 文件的时候可以指定 wide 或 big 或 inline 到你的图片 alt 属性中, 比如这样:
+有三种图片显示模式: wide, big, inline，small. 当你编写 mark 文件的时候可以指定 wide 或 big 或 inline 到你的图片 alt 属性中, 比如这样:
 
 ```markdown
 ![alt content|wide](a.png)
@@ -68,7 +68,7 @@
 |   |   |-- about.astro
 |   |   |-- archive.astro
 |   |   |-- index.astro
-|   |   |-- posts 
+|   |   |-- posts
 |   |   |   |-- some markdown post.md  // 这里写文章
 |   |   |-- rss.xml.js // RSS feed
 |   |   `-- tags
@@ -82,12 +82,12 @@
 
 在项目根目录下执行这些命令:
 
-| 命令                | 动作                                           |
+| 命令                   | 动作                                             |
 | :--------------------- | :----------------------------------------------- |
-| `npm install`          | 安装依赖                           |
-| `npm run dev`          | 本地预览 `localhost:3000`      |
-| `npm run build`        | 编译生成静态网站，结果在 `./dist/`          |
-| `npm run preview`      | 在发布之前，可以本地预览    |
+| `npm install`          | 安装依赖                                         |
+| `npm run dev`          | 本地预览 `localhost:3000`                        |
+| `npm run build`        | 编译生成静态网站，结果在 `./dist/`               |
+| `npm run preview`      | 在发布之前，可以本地预览                         |
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro --help` | Get help using the Astro CLI                     |
 
