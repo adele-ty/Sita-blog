@@ -5,8 +5,8 @@ pubDate: 2019-08-13
 description: "津门风物正秋时，临岸楼观浩淼齐"
 author: "Sita Tan"
 cover:
-  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/1ef05f9fb00e0011326af945c1619f32a59edcfb/public/Suzhou/IMG_1124(20230606-102144).JPG"
-  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/1ef05f9fb00e0011326af945c1619f32a59edcfb/public/Suzhou/IMG_1124(20230606-102144).JPG"
+  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/5b3ef9b02759ea24f2823536fa330130dc1cfe80/public/Tianjin/IMG_1164.JPG"
+  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/5b3ef9b02759ea24f2823536fa330130dc1cfe80/public/Tianjin/IMG_1164.JPG"
   alt: "cover"
 tags: ["旅行", "天津", "近代"]
 theme: "light"
