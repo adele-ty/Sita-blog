@@ -5,8 +5,8 @@ pubDate: 2023-03-04
 description: "自世界上最畅销的无反光镜相机发布以来已经过去了很多年，但我依然推荐Sony a6000"
 author: "Sita Tan"
 cover:
-  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/fc2df13567a5bbe766ebdf2f2b813f24ba4e8efd/public/Nanjing/IMG_1132(20230606-141814).JPG"
-  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/fc2df13567a5bbe766ebdf2f2b813f24ba4e8efd/public/Nanjing/IMG_1132(20230606-141814).JPG"
+  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/8392a778f5436d7d647973d6cab1cb1fd8c60f26/public/Sony-a6000/IMG_1044.JPG"
+  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/8392a778f5436d7d647973d6cab1cb1fd8c60f26/public/Sony-a6000/IMG_1044.JPG"
   alt: "cover"
 tags: ["摄影", "Sony", "a6000"]
 theme: "light"
