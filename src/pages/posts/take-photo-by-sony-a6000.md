@@ -48,8 +48,6 @@ sony a6000 缺乏稳定性，机身并不具有光学防抖功能，此外，无
 ![shot on Sigma 30mm F1.4](/public/Sony-a6000/sony-a6000-review-artmuseum-1536x864.jpg)
 
 <figure class="image image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on image-small column">
-<!-- ![shot on Sony 16-50mm 套装镜头|small](</public/Sony-a6000/sony-a6000-review-autumn-2-1024x1536%20(1).jpg>)
-![shot on Sony 16-50mm 套装镜头|small](/public/Sony-a6000/sony-a6000-review-autumn-2-1024x1536.jpg) -->
   <img class="component-content image-sharesheet column-item" src="/public/Sony-a6000/sony-a6000-review-autumn-1-1024x1536.jpg" />
   <img class="component-content image-sharesheet column-item" src="/public/Sony-a6000/sony-a6000-review-autumn-2-1024x1536.jpg" />
   <div class="image-description image-caption">shot on Sony 16-50mm 套装镜头</div>

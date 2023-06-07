@@ -17,11 +17,13 @@ featured: true
 
 关于西湖有太多回忆，在杭州学习和工作的一年时间里，我去过大概三次西湖，第一次是和室友，大夏天的走完了苏堤和白堤，但是没有很热，因为杭州的植被实在是太茂盛了，西湖边上就更不用说，第二次是和对象雨天游湖，杭州一到雨季，倾盘大雨说来就来，有一说一，雨天的西湖更美，是烟雨朦胧的美。
 
-![狐獴|inline](/public/Hangzhou/IMG_1144.JPG)
+<figure class="image image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on image-small column">
+  <img class="component-content image-sharesheet column-item" src="/public/Hangzhou/IMG_1144.JPG" />
+  <img class="component-content image-sharesheet column-item" src="/public/Hangzhou/IMG_1145.JPG" />
+  <div class="image-description image-caption">狐獴</div>
+</figure>
 
-忘记门票是十元还是免费，杭州不要钱还好玩的地方太多了，小动物好可爱，水獭太亲人啦，招招手就跑过来，真的好会营业，不过没有拍，下面的两张照片是杭州动物园里我最喜欢的小动物，好迷你好可爱 🥺，想摸摸它的后脑勺，本来冲着小熊猫去的，小熊猫没看到，没想到被狐獴（应该是这个）俘获了 😍。
-
-![狐獴|inline](/public/Hangzhou/IMG_1145.JPG)
+忘记门票是十元还是免费，杭州不要钱还好玩的地方太多了，小动物好可爱，水獭太亲人啦，招招手就跑过来，真的好会营业，不过没有拍，上面的两张照片是杭州动物园里我最喜欢的小动物，好迷你好可爱 🥺，想摸摸它的后脑勺，本来冲着小熊猫去的，小熊猫没看到，没想到被狐獴（应该是这个）俘获了 😍。
 
 ![净慈寺|inline](</public/Hangzhou/IMG_1146(20230606-162632).JPG>)
 
