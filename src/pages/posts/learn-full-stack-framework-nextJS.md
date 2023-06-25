@@ -23,11 +23,11 @@ featured: true
 
 在 Next.js 中，一个 page（页面） 就是一个从 .js、jsx、.ts 或 .tsx 文件导出（export）的 React 组件 ，这些文件存放在 pages 目录下。每个 page（页面）都使用其文件名作为路由（route）。
 
-<h2>静态路由</h2>
+## 静态路由
 
 示例： 如果你创建了一个命名为 pages/about.js 的文件并导出（export）一个 React 组件，则可以通过 /about 路径进行访问。
 
-<h2>动态路由</h2>
+## 动态路由
 
 动态路由使用中括号 [variable].js 作为文件名，其中 variable 会映射成  URL query 的变量名称，在 React 中可以通过  useRouter 获取路由信息。
 
@@ -39,11 +39,11 @@ featured: true
 
 Next.js 提供了两种页面预渲染方案，SSG 与 SSR。这两种方式的不同之处在于为 page 生成 HTML 页面的时机。Next.js 默认会预渲染所有没有动态数据的页面，而动态的数据还是像 React 一样在客户端渲染的。
 
-<h2>SSG(静态站点生成)</h2>
+## SSG(静态站点生成)
 
 在构建时生成 HTML，并在每次页面请求时重用
 
-<h2>SSR(服务端渲染)</h2>
+## SSR(服务端渲染)
 
 在每次页面请求时重新生成 HTML,适用于数据变化比较频繁的页面
 
