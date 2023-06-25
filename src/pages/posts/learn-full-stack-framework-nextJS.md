@@ -5,8 +5,8 @@ pubDate: 2023-06-25
 description: "基于 React.js 扩展而来的全栈框架，可以快速搭建一个全栈应用程序"
 author: "Sita Tan"
 cover:
-  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/5b3ef9b02759ea24f2823536fa330130dc1cfe80/public/Tianjin/IMG_1164.JPG"
-  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/5b3ef9b02759ea24f2823536fa330130dc1cfe80/public/Tianjin/IMG_1164.JPG"
+  url: "https://github.com/adele-ty/Sita-blog/blob/3391e7160e1d9aa63c506d3069794f8770d63c22/src/images/nextJS/nextJS.png?raw=true"
+  square: "https://github.com/adele-ty/Sita-blog/blob/3391e7160e1d9aa63c506d3069794f8770d63c22/src/images/nextJS/nextJS.png?raw=true"
   alt: "cover"
 tags: ["技术", "全栈", "Next.js"]
 theme: "light"
@@ -19,19 +19,19 @@ featured: true
 
 以下主要是 Next.js 的一些优点，包括但不限于 🤠
 
-## 路由
+# 路由
 
 在 Next.js 中，一个 page（页面） 就是一个从 .js、jsx、.ts 或 .tsx 文件导出（export）的 React 组件 ，这些文件存放在 pages 目录下。每个 page（页面）都使用其文件名作为路由（route）。
 
-### 静态路由
+<h2>静态路由</h2>
 
 示例： 如果你创建了一个命名为 pages/about.js 的文件并导出（export）一个 React 组件，则可以通过 /about 路径进行访问。
 
-### 动态路由
+<h2>动态路由</h2>
 
 动态路由使用中括号 [variable].js 作为文件名，其中 variable 会映射成  URL query 的变量名称，在 React 中可以通过  useRouter 获取路由信息。
 
-## 预渲染
+# 预渲染
 
 传统 React 应用返回的 HTML 文件中，不包含应用的信息，因为页面是在客户端进行渲染的，所以服务端返回的源码通常只有一个 id 为 root 的 div 标签，不利于做 SEO（搜索引擎优化）。
 
@@ -39,15 +39,15 @@ featured: true
 
 Next.js 提供了两种页面预渲染方案，SSG 与 SSR。这两种方式的不同之处在于为 page 生成 HTML 页面的时机。Next.js 默认会预渲染所有没有动态数据的页面，而动态的数据还是像 React 一样在客户端渲染的。
 
-### SSG(静态站点生成)
+<h2>SSG(静态站点生成)</h2>
 
 在构建时生成 HTML，并在每次页面请求时重用
 
-### SSR(服务端渲染)
+<h2>SSR(服务端渲染)</h2>
 
 在每次页面请求时重新生成 HTML,适用于数据变化比较频繁的页面
 
-## 优化图像
+# 优化图像
 
 Next.js 提供了优化图片的方案——Image  组件， 它是对 &gt;img&lt; 元素的扩展。
 
@@ -58,7 +58,7 @@ Next.js 提供了优化图片的方案——Image  组件， 它是对 &gt;img&
 - 图片在视图中才会被加载
 - 可以自定义图片尺寸，Next.js 会根据  Image  的  width  与  height  值，在页面请求服务端时，转换并缓存相应大小的图片。
 
-## API 路由
+# API 路由
 
 API 路由为使用 Next.js 构建你自己的 API 提供了一种解决方案。
 
