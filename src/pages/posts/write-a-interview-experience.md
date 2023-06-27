@@ -5,8 +5,8 @@ pubDate: 2023-06-27
 description: "一名艰难找工的前端打工人"
 author: "Sita Tan"
 cover:
-  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/605a122836c71c900ca24ac47491226cfa186b3f/src/images/interview/JavaScript-logo.png"
-  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/605a122836c71c900ca24ac47491226cfa186b3f/src/images/interview/JavaScript-logo.png"
+  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/1cd992dba010be5871e992fe7cb946cfe5d704a3/src/images/interview/JavaScript-logo.png"
+  square: "hhttps://raw.githubusercontent.com/adele-ty/Sita-blog/1cd992dba010be5871e992fe7cb946cfe5d704a3/src/images/interview/JavaScript-logo.png"
   alt: "cover"
 tags: ["技术", "面试", "前端"]
 theme: "light"
