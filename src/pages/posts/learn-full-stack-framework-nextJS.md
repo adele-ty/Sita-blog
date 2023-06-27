@@ -49,7 +49,7 @@ Next.js 提供了两种页面预渲染方案，SSG 与 SSR。这两种方式的�
 
 # 优化图像
 
-Next.js 提供了优化图片的方案——Image  组件， 它是对 &gt;img&lt; 元素的扩展。
+Next.js 提供了优化图片的方案——Image  组件， 它是对 &lt;img&gt; 元素的扩展。
 
 使用 Image 组件有四点好处：
 
