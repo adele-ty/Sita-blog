@@ -9,7 +9,7 @@ cover:
   square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/fc2df13567a5bbe766ebdf2f2b813f24ba4e8efd/public/Nanjing/IMG_1132(20230606-141814).JPG"
   alt: "cover"
 tags: ["旅行", "南京", "古都"]
-theme: "light"
+theme: "dark"
 featured: true
 ---
 
