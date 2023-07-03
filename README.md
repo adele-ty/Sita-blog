@@ -1,6 +1,6 @@
-## Astro Air Blog 是什么？
+## Astro Blog 是什么？
 
-它是基于 Astro 2.0 开发的一个博客模板，你可以直接使用它来搭建你的博客。没有使用任何 CSS 框架以及 React 等前端框架，而是使用了 Astro 自带的组件库，这样可以让你的博客加载速度更快，同时也可以让你的博客更加轻量。
+它是基于 Astro 2.0 开发的一个博客网站，你可以直接使用它来搭建你的博客。没有使用任何 CSS 框架以及 React 等前端框架，而是使用了 Astro 自带的组件库，这样可以让你的博客加载速度更快，同时也可以让你的博客更加轻量。
 
 ## 教程
 
@@ -16,7 +16,7 @@
 
 ### 文章黑暗模式
 
-![文章黑暗模式](./public/preview/preview_dark.png?)
+![文章黑暗模式](./public/preview/preview_dark.png)
 
 ### 普通文章
 
@@ -28,15 +28,15 @@
 
 ### 四种图片显示模式
 
-![](./public/preview/preview_different_mode.png)
-
-有三种图片显示模式: wide, big, inline，small. 当你编写 mark 文件的时候可以指定 wide 或 big 或 inline 到你的图片 alt 属性中, 比如这样:
+有四种图片显示模式: wide, big, inline，small. 当你编写 mark 文件的时候可以指定 wide 或 big 或 inline 或 small 到你的图片 alt 属性中, 比如这样:
 
 ```markdown
 ![alt content|wide](a.png)
 ```
 
 <strong>分割符号是`|`,默认的模式为 `big`.</strong>
+
+![](./public/preview/two_column.png)
 
 另外图片支持双列布局，使用双列布局最好和 small 一起使用，具体如何使用可以查看博客中的具体案例
 
@@ -90,7 +90,3 @@
 | `npm run preview`      | 在发布之前，可以本地预览                         |
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro --help` | Get help using the Astro CLI                     |
-
-## 👀 想了解更多？
-
-正在撰写相关文章。
