@@ -5,8 +5,8 @@ pubDate: 2023-08-10
 description: "Create native apps for Android, iOS, and more using React"
 author: "Sita Tan"
 cover:
-  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/02cf6d8a2ade8fedd89883f60feb607992423492/public/React-Native/short.png"
-  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/02cf6d8a2ade8fedd89883f60feb607992423492/public/React-Native/short.png"
+  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/e9dce3383721cbe305b083a072e73f30e4a0acf5/public/React-Native/cover.png"
+  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/e9dce3383721cbe305b083a072e73f30e4a0acf5/public/React-Native/cover.png"
   alt: "cover"
 tags: ["技术", "React-Native"]
 theme: "light"
