@@ -20,10 +20,10 @@ allPosts.sort(
             return (
               <Tile
                 title={post.frontmatter.title}
-                href={post.url}
+                href={post?.url}
                 date={post.frontmatter.pubDate}
                 tags={post.frontmatter.tags}
-                cover={post.frontmatter.cover.url}
+                cover={post.frontmatter.cover?.url}
                 level="1"
               />
             );
@@ -36,10 +36,10 @@ allPosts.sort(
             return (
               <Tile
                 title={post.frontmatter.title}
-                href={post.url}
+                href={post?.url}
                 date={post.frontmatter.pubDate}
                 tags={post.frontmatter.tags}
-                cover={post.frontmatter.cover.url}
+                cover={post.frontmatter.cover?.url}
                 level="2"
               />
             );
@@ -52,10 +52,10 @@ allPosts.sort(
             return (
               <Tile
                 title={post.frontmatter.title}
-                href={post.url}
+                href={post?.url}
                 date={post.frontmatter.pubDate}
                 tags={post.frontmatter.tags}
-                cover={post.frontmatter.cover.url}
+                cover={post.frontmatter.cover?.url}
                 level="3"
               />
             );
@@ -76,13 +76,13 @@ allPosts.sort(
             return (
               <MoreTile
                 title={post.frontmatter.title}
-                href={post.url}
+                href={post?.url}
                 date={post.frontmatter.pubDate}
                 tags={post.frontmatter.tags}
                 cover={
                   post.frontmatter.cover.square !== ""
                     ? post.frontmatter.cover.square
-                    : post.frontmatter.cover.url
+                    : post.frontmatter.cover?.url
                 }
               />
             );
