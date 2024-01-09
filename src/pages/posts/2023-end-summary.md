@@ -5,8 +5,8 @@ pubDate: 2023-12-31
 description: "我的第一篇年终总结"
 author: "Sita Tan"
 cover:
-  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/8392a778f5436d7d647973d6cab1cb1fd8c60f26/public/Sony-a6000/IMG_1044.JPG"
-  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/8392a778f5436d7d647973d6cab1cb1fd8c60f26/public/Sony-a6000/IMG_1044.JPG"
+  url: "https://github.com/adele-ty/Sita-blog/blob/687745a3cf1df97475df1c0f13b37f55ba1bae82/public/2023/DSC01802.JPG?raw=true"
+  square: "https://github.com/adele-ty/Sita-blog/blob/687745a3cf1df97475df1c0f13b37f55ba1bae82/public/2023/DSC01802.JPG?raw=true"
   alt: "cover"
 tags: ["2023", "总结"]
 theme: "light"
