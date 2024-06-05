@@ -58,20 +58,18 @@ featured: true
 
 人像拍摄是非常常见的场景，许多人买相机可能就是为了记录生活，这当然会涉及到人像拍摄，下面两张照片展现了 `sony a6300` 在人像方面的表现力。  
 
-<figure class="image image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on image-small column">
-  <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6300/7.JPG?raw=true" />
-  <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6300/8.JPG?raw=true" />
-  <div class="image-description image-caption">苏州上方山和杭州良渚</div>
-</figure>
+![香港某处|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6300/7.JPG?raw=true)  
+
+![香港某处|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6300/8.JPG?raw=true)
 
 ## 室内建筑
 
 美观现代化的室内建筑也是我非常喜欢拍摄的对象，现代化建筑一般都比较简洁，而室内和室外又有一些不同，室内的设计往往会更加精细。  
 
-![广州天环|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6300/9.JPG?raw=true)
+![广州天环|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6300/9.JPG?raw=true)
 
 ## 室外建筑
 
 室外建筑相比于室内会给我带来更强烈的几何学美感，一般教堂、寺庙、现代化的城市地标都会出现在我的镜头当中。  
 
-![佛山祖庙|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6300/10.JPG?raw=true)
+![佛山祖庙|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6300/10.JPG?raw=true)
