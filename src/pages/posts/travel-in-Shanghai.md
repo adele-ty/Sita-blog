@@ -5,8 +5,8 @@ pubDate: 2023-04-17
 description: "上海为了“节省天光”，将所有的时钟都拨快了一个小时"
 author: "Sita Tan"
 cover:
-  url: "https://raw.githubusercontent.com/adele-ty/Sita-blog/8392a778f5436d7d647973d6cab1cb1fd8c60f26/public/Sony-a6000/IMG_1044.JPG"
-  square: "https://raw.githubusercontent.com/adele-ty/Sita-blog/8392a778f5436d7d647973d6cab1cb1fd8c60f26/public/Sony-a6000/IMG_1044.JPG"
+  url: "https://github.com/adele-ty/Sita-blog/blob/b88c59e082fbbee4d57ed4801b9edb8bd3fafa7a/public/Shanghai/%E4%B8%9C%E6%96%B9%E6%98%8E%E7%8F%A0.jpg?raw=true"
+  square: "https://github.com/adele-ty/Sita-blog/blob/b88c59e082fbbee4d57ed4801b9edb8bd3fafa7a/public/Shanghai/%E4%B8%9C%E6%96%B9%E6%98%8E%E7%8F%A0.jpg?raw=true"
   alt: "cover"
 tags: ["旅行", "上海"]
 theme: "light"

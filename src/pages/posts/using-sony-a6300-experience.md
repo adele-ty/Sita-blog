@@ -15,13 +15,7 @@ featured: true
 
 距离我购入 `sony a6300` 已经差不多一年了，我个人非常喜欢这台相机，首先性能不错，其次它在二手市场的价格并不算高，性价比相当能打，我搭配的镜头是 `Sony E3.5-6.3/18-200 OSS`一代银头 ,今天正好有空，写一下关于使用这款相机一年的体验和感受。
 
-首先是一些技巧方面的使用感受：强光、弱光、广角、长焦、微距、高速连拍。
-
-## 强光
-
-强光是最容易出片的场景，色彩鲜明，也是平时在户外比较容易遇到的场景，如果你打算出门拍照，最好是选择晴朗的天气。
-![苏州上方山森林公园](https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6000/sony-a6000-review-artmuseum-1536x864.jpg?raw=true)
-![苏州独墅湖教堂](https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6000/sony-a6000-review-artmuseum-1536x864.jpg?raw=true)
+首先是一些技巧方面的使用感受：弱光、广角、长焦、微距、高速连拍。
 
 ## 弱光
 
