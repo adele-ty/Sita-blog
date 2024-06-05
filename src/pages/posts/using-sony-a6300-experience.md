@@ -58,9 +58,9 @@ featured: true
 
 人像拍摄是非常常见的场景，许多人买相机可能就是为了记录生活，这当然会涉及到人像拍摄，下面两张照片展现了 `sony a6300` 在人像方面的表现力。  
 
-![香港某处|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6300/7.JPG?raw=true)  
+![苏州上方山|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6300/7.JPG?raw=true)  
 
-![香港某处|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6300/8.JPG?raw=true)
+![杭州良渚|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Sony-a6300/8.JPG?raw=true)
 
 ## 室内建筑
 
