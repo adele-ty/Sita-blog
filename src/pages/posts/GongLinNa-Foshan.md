@@ -15,7 +15,7 @@ featured: true
 
 第一次知道龚琳娜是因为那首著名的鬼畜歌曲《忐忑》，当然这首歌是非常好的音乐作品，近些年也渐渐摆脱了鬼畜这个标签，龚琳娜也更为人熟知了，不管是她的唱功还是创作能力在国内都是顶级的。
 
-![演出日程|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/GongLinna-Foshan/IMG_3108.PNG?raw=true)
+![演出日程|small](https://github.com/adele-ty/Sita-blog/blob/main/public/GongLinna-Foshan/IMG_3108.PNG?raw=true)
 
 当时我看到她的演出日程，第一站就是广州，但是我的住处离星海音乐厅非常远，并且在周五，所以我没办法去看，幸运的是，第二场在佛山琼花音乐厅，时间是周六晚上的19:30，所以我立马决定买佛山场的🎫，一睹龚老师的风采。
 

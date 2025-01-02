@@ -31,11 +31,11 @@ featured: true
 
 只是在博物院门外的广场上拍了个照片，人实在是太多了，到达博物院的时候已经 3 点半了，博物院 4 点关门，而此时博物院的广场上还排着长长的队，我想着等轮到我，博物院也差不多要关门了，于是只是在广场上坐了一会就走了，大为可惜，sad...
 
-![交通银行](<https://github.com/adele-ty/Sita-blog/blob/main/public/Nanjing/IMG_1135(20230606-141843).JPG?raw=true>)
+![交通银行|inline](<https://github.com/adele-ty/Sita-blog/blob/main/public/Nanjing/IMG_1135(20230606-141843).JPG?raw=true>)
 
 随手拍的街景，交通银行和随处可见的梧桐
 
-![中山陵](https://github.com/adele-ty/Sita-blog/blob/main/public/Nanjing/IMG_1136.JPG?raw=true)
+![中山陵|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Nanjing/IMG_1136.JPG?raw=true)
 
 去完明孝陵紧接着就去了中山陵，到达中山陵的最高处之前，要走上长长一段台阶，非常高，其实没有什么可看，除了站在最高处俯瞰钟山。
 

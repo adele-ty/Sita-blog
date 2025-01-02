@@ -33,7 +33,7 @@ featured: true
 
 这个院子是专门用来放各种盆景的，盆景没有拍，各种造型都有，比盆景更吸引我的是这个角落，蓬勃生长的植物和墙外的蓝天白云。
 
-![北寺塔](<https://github.com/adele-ty/Sita-blog/blob/main/public/Suzhou/IMG_1129(20230606-102311).JPG?raw=true>)
+![北寺塔|inline](<https://github.com/adele-ty/Sita-blog/blob/main/public/Suzhou/IMG_1129(20230606-102311).JPG?raw=true>)
 
 刚到苏州，在北寺塔地铁站外回头一看，映入眼帘的自然就是北寺塔了，就这样记录下了我来苏州的第一天，从这之后，都没有正经去过一次北寺塔，相信远远地看一眼会觉得美，真的进去玩了反而会没有收获，主打的就是一个意外的美。
 
@@ -41,7 +41,7 @@ featured: true
 
 这面波浪形的墙太绝了，墙上还有镂空的窗子，墙和我坐的台子中间是一条小河，下午的阳光洒在我身上，赏心悦目。
 
-![拙政园外的街道](<https://github.com/adele-ty/Sita-blog/blob/main/public/Suzhou/IMG_1130(20230606-102322).JPG?raw=true>)
+![拙政园外的街道|inline](<https://github.com/adele-ty/Sita-blog/blob/main/public/Suzhou/IMG_1130(20230606-102322).JPG?raw=true>)
 
 拙政园占地面积非常大，园子外面是长长的街道，遍植梧桐，对面是同样古朴的小房子，都是一些小店，卖小吃和各种小玩意儿的。
 
