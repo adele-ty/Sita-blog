@@ -33,9 +33,9 @@ featured: true
 
 净慈寺附近除了西湖雷峰塔之外，还有太子湾公园、杭州动物园、虎跑、中国美院等等可以游玩或者参观的地方。
 
-![从净慈寺看雷峰塔](<https://github.com/adele-ty/Sita-blog/blob/main/public/Hangzhou/IMG_1156(20230606-163605).JPG?raw=true>)
+![从净慈寺看雷峰塔|inline](<https://github.com/adele-ty/Sita-blog/blob/main/public/Hangzhou/IMG_1156(20230606-163605).JPG?raw=true>)
 
-![绣球](<https://github.com/adele-ty/Sita-blog/blob/main/public/Hangzhou/IMG_1141(20230606-162343).JPG?raw=true>)
+![绣球|inline](<https://github.com/adele-ty/Sita-blog/blob/main/public/Hangzhou/IMG_1141(20230606-162343).JPG?raw=true>)
 
 在杭州见得最多的花就是绣球，粉色的、蓝色的、绿色的都有，太漂亮啦，给我使劲儿开。西溪湿地公园也有很多绣球，我去的时候，那里还没有通地铁，现在去西溪湿地公园可以直接坐地铁了，整个公园大概要差不多 4 个小时才能逛完，这可以算是一个植物园了，各种各样的花朵太多了，进了西溪湿地公园，你就是森林小精灵。
 

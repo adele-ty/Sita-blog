@@ -63,7 +63,7 @@ featured: true
 
 上面是几幅我比较喜欢的画作，看完画展就到了午饭时间，吃的牛 new·寿喜烧，138 元的双人套餐，只可以在工作日用，非常划算，套餐里有很多肉，榴莲大福很好吃，还送了饮料，去的是江西中路附近那家店。
 
-![东方明珠|inline](https://github.com/adele-ty/Sita-blog/blob/b88c59e082fbbee4d57ed4801b9edb8bd3fafa7a/public/Shanghai/%E4%B8%9C%E6%96%B9%E6%98%8E%E7%8F%A0.jpg?raw=true)
+![东方明珠|small](https://github.com/adele-ty/Sita-blog/blob/b88c59e082fbbee4d57ed4801b9edb8bd3fafa7a/public/Shanghai/%E4%B8%9C%E6%96%B9%E6%98%8E%E7%8F%A0.jpg?raw=true)
 
 吃完午饭沿着江西中路走了一会儿就到东方明珠了，这一带的城市景观很美，在这附近看了会风景，人不算很多。
 
