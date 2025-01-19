@@ -5,8 +5,8 @@ pubDate: 2024-12-31
 description: "我的第二篇年终总结"
 author: "Sita Tan"
 cover:
-  url: "https://github.com/adele-ty/Sita-blog/blob/687745a3cf1df97475df1c0f13b37f55ba1bae82/public/2023/DSC01802.JPG?raw=true"
-  square: "https://github.com/adele-ty/Sita-blog/blob/687745a3cf1df97475df1c0f13b37f55ba1bae82/public/2023/DSC01802.JPG?raw=true"
+  url: "https://github.com/adele-ty/Sita-blog/blob/main/public/2024/IMG_5343.JPG?raw=true"
+  square: "https://github.com/adele-ty/Sita-blog/blob/main/public/2024/IMG_5343.JPG?raw=true"
   alt: "cover"
 tags: ["2024", "生活"]
 theme: "light"
