@@ -1,8 +1,8 @@
 ---
 layout: "../../layouts/MarkdownPost.astro"
-title: "2024年终总结"
-pubDate: 2024-12-31
-description: "我的第二篇年终总结"
+title: "2025年终总结"
+pubDate: 2025-12-31
+description: "我的第三篇年终总结"
 author: "Sita Tan"
 cover:
   url: "https://github.com/adele-ty/Sita-blog/blob/main/public/2024/IMG_5343.JPG?raw=true"
