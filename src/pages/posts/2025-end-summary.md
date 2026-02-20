@@ -5,8 +5,8 @@ pubDate: 2025-12-31
 description: "我的第三篇年终总结"
 author: "Sita Tan"
 cover:
-  url: "https://github.com/adele-ty/Sita-blog/blob/main/public/2024/IMG_5343.JPG?raw=true"
-  square: "https://github.com/adele-ty/Sita-blog/blob/main/public/2024/IMG_5343.JPG?raw=true"
+  url: "https://github.com/adele-ty/Sita-blog/blob/main/public/2025/cover.JPG?raw=true"
+  square: "https://github.com/adele-ty/Sita-blog/blob/main/public/2025/cover.JPG?raw=true"
   alt: "cover"
 tags: ["2025", "生活"]
 theme: "light"
@@ -18,6 +18,12 @@ featured: true
 ## 工作
 
 国庆后顺利从网易跳槽到汇丰，回顾一下在网易的2年，先在 CCQA 再转组到射雕最后又内转到实况足球，也算是几经波折，但都平稳度过了。最后在实况的app小组，项目停摆一个月后，果断投简历找下家，无缝衔接到了新公司，薪资上涨不少，而且每周可以居家2天，我十分满意。
+
+<figure class="image image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on image-small column">
+  <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/2025/1.PNG?raw=true" />
+  <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/2025/2.PNG?raw=true" />
+  <div class="image-description image-caption">icost</div>
+</figure>
 
 ## 生活
 
