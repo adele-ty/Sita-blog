@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/MarkdownPost.astro"
 title: "澳门"
-pubDate: 2025-02-20
+pubDate: 2026-02-20
 description: "春节和生日在澳门🇲🇴"
 author: "Sita Tan"
 cover:
@@ -30,13 +30,15 @@ featured: true
 
 除夕当天 10 点多，拱北口岸过关后坐新葡京的发财车到了澳门本岛，先去大三巴逛了一下，从一条满是猪肉浦的巷子过去，太多人了，在那买了个大公鸡冰箱贴，玫瑰圣母堂也在附近，于是顺路进去了，这个可以不去，只有些圣母圣子的雕像而已。
 
-![大公鸡冰箱贴|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/5.JPG?raw=true)  
-
-![途径薄荷绿大楼|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/6.JPG?raw=true)  
+<figure class="image image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on image-small column">
+  <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/5.JPG?raw=true" />
+  <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/6.JPG?raw=true" />
+  <div class="image-description image-caption">大公鸡冰箱贴和薄荷绿大楼</div>
+</figure>
 
 之后就去了二龙喉公园，这是整个澳门之旅中我最喜欢的地方，相比广州的公园，二龙喉公园真的很小，但是人少环境好，可以坐缆车上去，只要 1.7 人民币。
 
-<figure class="image image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on column">
+<figure class="image image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on image-small column">
   <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/7.JPG?raw=true" />
   <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/8.JPG?raw=true" />
   <div class="image-description image-caption">二龙喉公园</div>
@@ -46,7 +48,7 @@ featured: true
 
 ![途径粉色房子|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/9.JPG?raw=true)
 
-![东望洋酒店|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/10.JPG?raw=true)
+![东望洋酒店|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/10.JPG?raw=true)
 
 <figure class="image image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on image-small column">
   <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/11.JPG?raw=true" />
@@ -58,11 +60,11 @@ featured: true
 
 ![蓝房子|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/13.JPG?raw=true)  
 
-![黄房子|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/14.JPG?raw=true)  
+![黄房子|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/14.JPG?raw=true)  
 
 第二天是春节也是我的生日，本来去新八佰伴坐美高梅的发财车去凼仔，但是那天新八佰伴没有发财车的站点了，于是选择了坐公交，澳门公交可以直接刷岭南通，只要是交通联合都可以直接刷，5+ 人民币，先去了威尼斯人购物中心逛，想给我的 AirPods 买个壳子来着，但没有我的型号🙃。这一天气温骤降，风也很大，本来要去美高梅蹭免费的奶茶和小饼干也没去。只在巴黎人花园坐了会就直接去官也街了。
 
-![威尼斯人|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/15.JPG?raw=true)  
+![威尼斯人|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/15.JPG?raw=true)  
 
 ![威尼斯人|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/16.JPG?raw=true)  
 
@@ -74,7 +76,7 @@ featured: true
   <div class="image-description image-caption">柠檬黄和薄荷绿</div>
 </figure>
 
-![湿地公园|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/19.JPG?raw=true)  
+![湿地公园|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Macau/19.JPG?raw=true)  
 
 回到珠海以后，我只想快点回广州，一个是因为有点累有点冷，另一个是我有点想我的乖咪了😹，于是退掉了返程大巴的票，买了当天的高铁，大概晚上 8 点多回到广州，提前了一天结束旅程。
 
