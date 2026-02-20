@@ -19,15 +19,15 @@ featured: true
 
 国庆后顺利从网易跳槽到汇丰，回顾一下在网易的2年，先在 CCQA 再转组到射雕最后又内转到实况足球，也算是几经波折，但都平稳度过了。最后在实况的app小组，项目停摆一个月后，果断投简历找下家，无缝衔接到了新公司，薪资上涨不少，而且每周可以居家2天，我十分满意。
 
+## 生活
+
+**关于支出，** 2025 年全年消费 53604 元，主要集中在餐饮、住房、债务、学习、宠物、运动这几大块，餐饮消费大约为 13514 元；房租为 13055 元；债务约为 8k；学习花费 6466 元，主要是雅思和留学申请的费用；宠物花费 2812 元；运动花费 2272 元，学了游泳；其他还有服饰、数码、交通等花费，但都低于 2k。
+
 <figure class="image image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on image-small column">
   <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/2025/1.PNG?raw=true" />
   <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/2025/2.PNG?raw=true" />
   <div class="image-description image-caption">icost</div>
 </figure>
-
-## 生活
-
-**关于支出，** 2025 年全年消费 53604 元，主要集中在餐饮、住房、债务、学习、宠物、运动这几大块，餐饮消费大约为 13514 元；房租为 13055 元；债务约为 8k；学习花费 6466 元，主要是雅思和留学申请的费用；宠物花费 2812 元；运动花费 2272 元，学了游泳；其他还有服饰、数码、交通等花费，但都低于 2k。
 
 **关于健康，** 状况良好。
 
