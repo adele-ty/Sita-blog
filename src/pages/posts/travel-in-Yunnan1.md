@@ -12,7 +12,6 @@ tags: ["旅行", "西双版纳", "普洱", "昆明"]
 theme: "light"
 featured: true
 ---
-![](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/6.JPG?raw=true)  
 
 这次旅行结束后，立刻就要飞去威尼斯读硕士学位了，此事后续再出帖子，先按下不表。自从拿到学校的录取，就在计划云南之行了，终于在8月31号正式辞职，9月1日便迅速启程去云南，我对七彩云南向往已久，2026年的9月终于成行。  
 
