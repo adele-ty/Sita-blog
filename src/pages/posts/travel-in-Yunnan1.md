@@ -5,14 +5,14 @@ pubDate: 2026-09-01
 description: "临近出国的一次国内旅行✈️"
 author: "Sita Tan"
 cover:
-  url: "https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/11.JPG?raw=true"
-  square: "https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/11.JPG?raw=true"
+  url: "https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/6.JPG?raw=true"
+  square: "https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/6.JPG?raw=true"
   alt: "cover"
 tags: ["旅行", "西双版纳", "普洱", "昆明"]
 theme: "light"
 featured: true
 ---
-![](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/11.JPG?raw=true)  
+![](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/6.JPG?raw=true)  
 
 这次旅行结束后，立刻就要飞去威尼斯读硕士学位了，此事后续再出帖子，先按下不表。自从拿到学校的录取，就在计划云南之行了，终于在8月31号正式辞职，9月1日便迅速启程去云南，我对七彩云南向往已久，2026年的9月终于成行。  
 
@@ -51,7 +51,7 @@ featured: true
   <div class="image-description image-caption">大金塔寺和澜沧江边</div>
 </figure>
 
-9月2日我选择去基诺山徒步，对于一个极度热爱大自然的人来说，来版纳不能不去雨林。早上8点司机接上我们一行人进山与向导会合，9点正式开始徒步，第一次见到巴掌那么大的蛾子和两三层楼高的芭蕉树，后来之后那天见到的蛾子竟然是全球最大的蛾子皇蛾，在版纳就是可以这么随随便便解锁世界之最😁，茂盛的植被让人极度舒适，中途还见到2条竹叶青，完全与周围的环境融为一体，极难发现，即使向导指着我看，都看了好久才看到，从山里出来返回市区时，已经下午2点。  
+9月2日我选择去基诺山徒步，对于一个极度热爱大自然的人来说，来版纳不能不去雨林。早上8点司机接上我们一行人进山与向导会合，9点正式开始徒步，第一次见到巴掌那么大的蛾子和两三层楼高的芭蕉树，后来才知道那天见到的蛾子竟然是全球最大的蛾子皇蛾，在版纳就是可以这么随随便便解锁世界之最😁，茂盛的植被让人极度舒适，中途还见到2条竹叶青，完全与周围的环境融为一体，极难发现，即使向导指着我看，都看了好久才看到，从山里出来返回市区时，已经下午2点。  
 
 <figure class="image image-fullbleed body-copy-wide nr-scroll-animation nr-scroll-animation--on image-small column">
   <img class="component-content image-sharesheet column-item" src="https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/37.JPG?raw=true" />
@@ -61,15 +61,15 @@ featured: true
 
 由于前一天没去成大金塔寺，因为穿了短裤，于是我换了条膝盖以下的裙子过去了，进去先得经过一个大广场才能到塔下，由于并不知道是不是必须烧香才能进去，只拍了照片就出去了，紧接着打车去了滨江步道，这里与告庄隔江相望，景色十分不错，沿着步道走一走，这一天的 city walk 就到此为止了，晚饭去了红牙象，这家餐厅位于流沙河边，环境不必多说，一贯的东南亚热带风情，就是蚊子很多，好在店内备好了驱蚊水，点了舂茄子、米干、碳烤虾、拿铁，一共101，一个人根本吃不完，舂茄子不好吃，但我依然愿意给这家店💯。  
 
-![滨江步道|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/10.JPG?raw=true) 
+![滨江步道|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/10.JPG?raw=true) 
 
 9月3日最后一天，睡到午饭前才起，因为之前的徒步导致我的大腿剧痛，这一天只去了中科院植物园，午餐不知道去哪吃，听小红书的去了婉泰，差评不好吃。吃完就坐上景区专线大巴去植物园，1个半小时才到，离市区非常远，但值得，分东西2个区，一定要买观光车的票，许多人推荐西区，实则东区更值得，可以看到巨型大板根、绞杀榕，非常震撼，强烈推荐，这一天相当于另一场雨林徒步，回去大腿更痛了，赶上最后一躺旅游巴士回到市区。  
 
-![植物园里的罗梭江|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/11.JPG?raw=true)  
+![植物园里的罗梭江|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/11.JPG?raw=true)  
 
-![巨型大板根|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/12.JPG?raw=true)  
+![巨型大板根|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/12.JPG?raw=true)  
 
-![巨型绞杀榕|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/13.JPG?raw=true) 
+![巨型绞杀榕|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/13.JPG?raw=true) 
 
 版纳是一座非常小的城市，但是可玩性非常高，美食也多，最便利的交通方式是打车，费用不高，版纳之行就到此结束。  
 
@@ -91,7 +91,7 @@ featured: true
   <div class="image-description image-caption">蜂猴和可爱的干脆面</div>
 </figure>
 
-![猫科动物熊狸|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/18.JPG?raw=true)  
+![猫科动物熊狸|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/18.JPG?raw=true)  
 
 9月6日的晚上6点多抵达昆明，打车去了表哥家，昆明的这几天都住在表哥家里，晚上一起吃了饭叙叙旧。  
 
@@ -119,7 +119,7 @@ featured: true
 
 ![蝴蝶标本|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/25.JPG?raw=true)  
 
-![像银耳一样的多肉|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/26.JPG?raw=true) 
+![像银耳一样的多肉|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/26.JPG?raw=true) 
 
 9月8日先去了云南省博，相比东部省份，这里的博物馆显然没有什么奇珍异宝，但是纪念品倒是不错，买了一个金翅鸟挂件送给了我表哥，给自己买了个瓦猫的吊坠，云南随处可见瓦猫，是云南人的镇宅神兽。  
 
@@ -129,7 +129,7 @@ featured: true
   <div class="image-description image-caption">金翅鸟和瓦猫</div>
 </figure>
 
-来了昆明怎能不去西山，打车去了北门，一路都可以俯瞰滇池，美不胜收，从西山下来可以直接坐缆车到海埂公园，沿着滇池漫步，水风凉爽，万里无云。  
+来了昆明怎能不去西山，打车去了北门，一路都可以俯瞰滇池，美不胜收，从西山下来可以直接坐缆车到海埂公园，沿着滇池漫步，水风凉爽，晴空万里。  
 
 ![西山|inline](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/29.JPG?raw=true)  
 
@@ -155,6 +155,6 @@ featured: true
 
 后来还是去了 C86 山茶坊，本以为会是商场之类的地方，没想到只一个提供给学生的巨大自习楼，环境很好很安静，游客不适合，在昆明的最后一餐以云牵一线结束🔚。  
 
-![情侣南路|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/36.JPG?raw=true)  
+![C86山茶坊|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/36.JPG?raw=true)  
 
 9月9日上午飞回了广州，至此云南之行告一段落。  
