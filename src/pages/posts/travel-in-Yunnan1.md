@@ -156,4 +156,4 @@ featured: true
 
 ![C86山茶坊|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/36.JPG?raw=true)
 
-9月9日上午飞回了广州，至此云南之行告一段落。  
+9月9日上午飞回了广州，至此云南之行告一段落。
