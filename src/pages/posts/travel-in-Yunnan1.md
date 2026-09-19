@@ -154,6 +154,6 @@ featured: true
 
 后来还是去了 C86 山茶坊，本以为会是商场之类的地方，没想到只一个提供给学生的巨大自习楼，环境很好很安静，游客不适合，在昆明的最后一餐以云牵一线结束🔚。  
 
-![C86山茶坊|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/36.JPG?raw=true)  
+![C86山茶坊|small](https://github.com/adele-ty/Sita-blog/blob/main/public/Yunnan/36.JPG?raw=true)
 
 9月9日上午飞回了广州，至此云南之行告一段落。  
